@@ -27,4 +27,4 @@ class OmegaBattle:
 
 if __name__ == "__main__":
     war_room = OmegaBattle()
-    war_room.run_simulated_warfare()
+    war_room.run_simulated_warfare() 
